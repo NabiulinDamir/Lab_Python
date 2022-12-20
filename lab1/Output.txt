@@ -1,0 +1,5 @@
+<'CounterStrike' Name: CSGO, Time: 1141, Update: True, Days: 1611>
+<'GrandTheftAuto5' Name: GTA5, Time: 866, Update: False, Days: 1265>
+<'EuropaUniversalis4' Name: EU4, Time: 526, Update: False, Days: 1181>
+<'Satisfactory' Name: Satis, Time: 243, Update: True, Days: 440>
+<'EliteDangerous' Name: Elite, Time: 80, Update: True, Days: 896>

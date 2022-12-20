@@ -1,0 +1,34 @@
+{
+    "library": [
+        {
+            "name": "CSGO",
+            "Time": 1141,
+            "Update": true,
+            "Days": 1611
+        },
+        {
+            "name": "GTA5",
+            "Time": 866,
+            "Update": false,
+            "Days": 1265
+        },
+        {
+            "name": "EU4",
+            "Time": 526,
+            "Update": false,
+            "Days": 1181
+        },
+        {
+            "name": "Satis",
+            "Time": 243,
+            "Update": true,
+            "Days": 440
+        },
+        {
+            "name": "Elite",
+            "Time": 80,
+            "Update": true,
+            "Days": 896
+        }
+    ]
+}
