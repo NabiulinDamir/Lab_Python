@@ -20,3 +20,4 @@ ColSurvived = reduce(lambda x, y: x + y, ColPeople)
 Percent = round(ColSurvived / len(ColPeople) * 100, 2)
 
 print("Count of people:", len(ColPeople),"\nCount of survived:", (ColSurvived), "\nPercent of survived:", Percent)
+#сдана
