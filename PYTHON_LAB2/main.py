@@ -18,3 +18,4 @@ print(res["random_sum"] == X)
 
 print("Median: ")
 print(rand_numbers[50])
+#сдана
